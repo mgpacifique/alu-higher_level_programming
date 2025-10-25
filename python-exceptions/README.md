@@ -38,6 +38,7 @@ This project covers Python exception handling, including:
 - `0-safe_print_list.py` - Function that prints x elements of a list using try/except
 - `1-safe_print_integer.py` - Function that safely prints an integer
 - `2-safe_print_list_integers.py` - Function that prints the first x integers from a list
+- `3-safe_print_division.py` - Function that divides 2 integers and prints the result
 
 ## Author
 ALU Higher Level Programming Student
