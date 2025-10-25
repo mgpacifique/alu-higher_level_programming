@@ -44,6 +44,7 @@ This project covers more advanced Python data structures and their operations, i
 - `2-uniq_add.py` - Function that adds all unique integers in a list
 - `3-common_elements.py` - Function that returns a set of common elements in two sets
 - `4-only_diff_elements.py` - Function that returns a set of all elements present in only one set
+- `5-number_keys.py` - Function that returns the number of keys in a dictionary
 
 ## Author
 ALU Higher Level Programming Student
