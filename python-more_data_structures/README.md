@@ -50,6 +50,7 @@ This project covers more advanced Python data structures and their operations, i
 - `8-simple_delete.py` - Function that deletes a key in a dictionary
 - `9-multiply_by_2.py` - Function that returns a new dictionary with all values multiplied by 2
 - `10-best_score.py` - Function that returns a key with the biggest integer value
+- `11-multiply_list_map.py` - Function that multiplies all values in a list using map
 
 ## Author
 ALU Higher Level Programming Student
