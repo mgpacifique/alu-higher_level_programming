@@ -51,6 +51,7 @@ This project covers more advanced Python data structures and their operations, i
 - `9-multiply_by_2.py` - Function that returns a new dictionary with all values multiplied by 2
 - `10-best_score.py` - Function that returns a key with the biggest integer value
 - `11-multiply_list_map.py` - Function that multiplies all values in a list using map
+- `12-roman_to_int.py` - Function that converts a Roman numeral to an integer
 
 ## Author
 ALU Higher Level Programming Student
