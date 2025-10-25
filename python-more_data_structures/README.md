@@ -48,6 +48,7 @@ This project covers more advanced Python data structures and their operations, i
 - `6-print_sorted_dictionary.py` - Function that prints a dictionary by ordered keys
 - `7-update_dictionary.py` - Function that replaces or adds key/value in a dictionary
 - `8-simple_delete.py` - Function that deletes a key in a dictionary
+- `9-multiply_by_2.py` - Function that returns a new dictionary with all values multiplied by 2
 
 ## Author
 ALU Higher Level Programming Student
