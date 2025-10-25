@@ -40,6 +40,7 @@ This project covers more advanced Python data structures and their operations, i
 ## Files
 
 - `0-square_matrix_simple.py` - Function that computes the square value of all integers in a matrix
+- `1-search_replace.py` - Function that replaces all occurrences of an element by another in a new list
 
 ## Author
 ALU Higher Level Programming Student
