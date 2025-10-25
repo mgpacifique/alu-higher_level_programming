@@ -42,6 +42,7 @@ This project covers more advanced Python data structures and their operations, i
 - `0-square_matrix_simple.py` - Function that computes the square value of all integers in a matrix
 - `1-search_replace.py` - Function that replaces all occurrences of an element by another in a new list
 - `2-uniq_add.py` - Function that adds all unique integers in a list
+- `3-common_elements.py` - Function that returns a set of common elements in two sets
 
 ## Author
 ALU Higher Level Programming Student
