@@ -43,6 +43,7 @@ This project covers more advanced Python data structures and their operations, i
 - `1-search_replace.py` - Function that replaces all occurrences of an element by another in a new list
 - `2-uniq_add.py` - Function that adds all unique integers in a list
 - `3-common_elements.py` - Function that returns a set of common elements in two sets
+- `4-only_diff_elements.py` - Function that returns a set of all elements present in only one set
 
 ## Author
 ALU Higher Level Programming Student
