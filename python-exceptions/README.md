@@ -40,6 +40,7 @@ This project covers Python exception handling, including:
 - `2-safe_print_list_integers.py` - Function that prints the first x integers from a list
 - `3-safe_print_division.py` - Function that divides 2 integers and prints the result
 - `4-list_division.py` - Function that divides element by element 2 lists
+- `5-raise_exception.py` - Function that raises a type exception
 
 ## Author
 ALU Higher Level Programming Student
